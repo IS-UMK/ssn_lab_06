@@ -39,7 +39,7 @@ Parametry początkowe:
 Wykorzystaj algorytm gazu neuronowego do kompresji obrazu [dane/Lenna.png](dane/Lenna.png).  
 Spróbuj dobrać parametr tak aby uzyskać jak najmniejszy błąd rekonstrukcji przy jak najmniejszym rozmiarze księgo kodów (ilości prototypów). 
 
-Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skrypt w języku Python (``.py``) umieść w Moodle lub prześlij do repozytorium GitHub.
+Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skryptu w języku Python (``.py``) w repozytorium GitHub.
 
 
 
